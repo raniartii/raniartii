@@ -50,8 +50,8 @@ I enjoy turning concepts into working prototypes—whether it's machine learning
 - **AI Job Recommender Capstone** – Skills gap analysis + LLM-driven recommendations for projects
 - **House Price Prediction with Feature Engineering** – ML pipeline + model comparison + feature interpretability  
 - **AI Receptionist Prototype** – Integrated STT, TTS, and LLMs to automate business calls (assessment project)  
-- **Invoice Generator (RPA)** – Automated PDF invoicing using Python  
-- **Cybercrime Dataset Analysis (R)** – Statistical modeling, probability distributions, and insights  
+- **Invoice Generator (RPA)** – Automated PDF invoicing using Python  (Local - Academic Project)
+- **Cybercrime Dataset Analysis (R)** – Statistical modeling, probability distributions, and insights  (Local - Academic Project)
 
 ---
 
